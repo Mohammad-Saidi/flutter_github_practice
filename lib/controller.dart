@@ -5,13 +5,9 @@
 // this controller file edited at github
 final a = 'saidi branch e edit kore remote e push korbo';
 final b = 'origin main edited , now testing will be done to local saidi';
-final c = 'saidi to origin main';
-final d = 'saidi to origin saidi';
-final e = 'origin saidi to local test';
-final f = 'local saidi to origin main';
-final g = 'g';
-final h = 'local saidi h';
-final i = 'origin i';
-final j = 'origin j';
-final k = 'origin saidi k';
-final l = 'origin saidi l';
+final c = 'hi';
+final d = 'main d';
+final e = 'origin main e';
+final f = 'origin main f';
+final g = 'origianl main g';
+final h = 'origin main h';
